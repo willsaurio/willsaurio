@@ -1,12 +1,14 @@
-# ¡Hola! Soy Wilmer Zeledón 👋
 
-Soy un desarrollador Web Jr de Nicaragua (Comunidad Montañes). Me gusta crear aplicaciones web rápidas con [Vue](https://vuejs.org/) / [React](https://es.reactjs.org/) / [Svelte](https://svelte.dev/), fáciles de usar y construidas con las mejores prácticas.
+## Hey, i'm Will!!!
 
-## Últimos articulos publicados
-
+* I am system engineer from [ Nicargua ]
 
 
-## Puedes encontrarme en:
 
-- [LinkedIn](www.linkedin.com/in/wilmer-zeledon)
-- [Instagram](https://www.instagram.com/cususafermentada/)
+
+## GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=willsaurio&theme=monokai&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+
+## Used Languages 
+
+![willsaurio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willsaurio&theme=monokai&show_icons=true&hide_border=false&layout=compact)
